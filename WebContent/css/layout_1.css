@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+/********************* header **********************/
+header {
+	height: 95px;
+	width: 100%;
+	background-color: gray;
+}
+
+.dic_main {
+	height: 54px;
+	width: 100%;
+	background-color: #03c75a;
+}
+
+.dic_select {
+	height: 39px;
+	width: 100%;
+	background-color: white;
+}
+
+/********************* section **********************/
+.main {
+	width: 981px;
+	height: 1068px;
+	background-color: black;
+	margin: 0 auto;
+}
+
+/********************* footer **********************/
+footer {
+	width: 981px;
+	height: 152px;
+	background-color: royalblue;
+	margin: 0 auto;
+}
+
+.notice {
+	width: 100%;
+	height: 26%;
+	background-color: gray;
+}
+
+.rules{
+	width: 100%;
+	height: 74%;
+	background-color: darkgray;
+}
